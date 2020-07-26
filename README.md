@@ -10,7 +10,7 @@ I will be uplaoding my answers to questions I found in coding challenge websites
 ---
 
 ## Topics I have covered so far
-[x] Time & Space
+[X] Time & Space
 [x] Arrays
 [x] Strings
 [x] Primitives
