@@ -9,24 +9,24 @@ I will be uplaoding my answers to questions I found in coding challenge websites
 
 ---
 
-## Topics I have covered so far
-[X] Time & Space
-[x] Arrays
-[x] Strings
-[x] Primitives
-[x] Linked list
-[x] Searching
-[x] Sorting
-[x] Stacks & Queues
-[ ] Hashtables
-[ ] Heaps
-[ ] Trees
-[ ] Special Trees
-[ ] Recusrion & Baccktracking
-[ ] Dynamic Programming
-[ ] Greddy Algorithms
-[ ] Screening
-[x] Concurrency 
+## Topics I am covering
+* [x] Time & Space
+* [x] Arrays
+* [x] Strings
+* [x] Primitives
+* [x] Linked list
+* [x] Searching
+* [x] Sorting
+* [x] Stacks & Queues
+* [ ] Hashtables
+* [ ] Heaps
+* [ ] Trees
+* [ ] Special Trees
+* [ ] Recusrion & Baccktracking
+* [ ] Dynamic Programming
+* [ ] Greddy Algorithms
+* [ ] Screening
+* [x] Concurrency 
 
 
 ---
