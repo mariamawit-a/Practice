@@ -1,10 +1,10 @@
 # Coding Practice
 
-## What am I doing? 
+### What am I doing? 
 Starting today, July 26, 2020, I will begin documenting my self-studying journey towards becoming proficient in data structures and algorithms.
-## Why am i doing this?
+### Why am i doing this?
 In order to keep myself organized and accountable. 
-## How am I doing this?
+### How am I doing this?
 I will be uplaoding my answers to questions I found in coding challenge websites. I choose to use **Python** beacause it has simpler syntax and useful built-in functions.
 
 ---
