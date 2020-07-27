@@ -31,9 +31,11 @@ I will be uplaoding my answers to questions I found in coding challenge websites
 
 ---
 
-### Relevant courses that helped me  
+### Relevant courses that helped me 
+#### Off-Campus
 - CodePath Summer Technical Interview Prep (Beginner level)
-- Data Structure with C++
+#### In-Campus
+- Data Structure with C++ (SMC)
 
 ---
 
