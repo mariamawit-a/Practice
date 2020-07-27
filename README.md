@@ -34,6 +34,7 @@ I will be uplaoding my answers to questions I found in coding challenge websites
 ### Relevant courses that helped me 
 #### Off-Campus
 - CodePath Summer Technical Interview Prep (Beginner level)
+- Udemy data structure and algorithm course
 #### In-Campus
 - Data Structure with C++ (SMC)
 
